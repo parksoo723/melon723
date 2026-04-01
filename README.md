@@ -17,8 +17,6 @@ Adobe Photoshop, Illustrator, Figma 등을 활용하여 제작했습니다.
 - Adobe Photoshop
 - Adobe Illustrator
 - Figma
-- Blender (선택)
-- Procreate (선택)
 
 ---
 
